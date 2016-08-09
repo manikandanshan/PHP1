@@ -1,27 +1,12 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <body>
 
 <h1>My first PHP page</h1>
-1234
+
 <?php
 echo "Hello World!";
-echo "PHP";
-echo "PHP111111";
-echo "jhjhjdhjdhjh";
-
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjj";
-echo "jhijjkjjjjhghgghghghg";
-echo"venkatesh";
-echo"sathiyaseelan";
-echo"Go to teashop";
 ?>
 
 </body>
-</html>
+</html> 
